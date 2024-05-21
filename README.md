@@ -60,7 +60,7 @@ print(response.json())
 UML Sequence Diagram
 
 
-<img width="700" height="400" alt="image" src="https://github.com/AbdulelahHamoud20/Calculator-Microservice/assets/114612988/ace56fc3-a06b-4aba-873e-134f612e2969">
+<img width="800" height="800" alt="image" src="https://github.com/AbdulelahHamoud20/Calculator-Microservice/assets/114612988/ace56fc3-a06b-4aba-873e-134f612e2969">
 
 
 
